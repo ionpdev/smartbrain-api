@@ -1,5 +1,5 @@
 # SmartBrain-api - v1
-Final project for Udemy course
+Project developed during my Udemy course certification
 
 1. Clone this repo
 2. Run `npm install`
